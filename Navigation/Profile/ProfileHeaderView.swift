@@ -51,7 +51,7 @@ class ProfileHeaderView: UIView {
         addSubview(statusLabel)
         addSubview(setStatusButton)
     }
-    
+      
     required init?(coder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
